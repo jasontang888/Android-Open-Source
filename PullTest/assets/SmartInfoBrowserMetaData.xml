@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SchemaVersion MajorVerNo="2" MinorVerNo="0"/>	
+<SmartInfoBrowser>
+	<SmartInfoDetails>
+		<Title>Crown Promanade Melbourn</Title>
+		<Icon>./Logo_First.jpg</Icon>
+		<Description>Here you find the general information about all services that our hotel provides Like breakfast timings, bike rental or about our airport shuttle service</Description>
+		<StartPageURL>./index.xhtml</StartPageURL>
+	</SmartInfoDetails>
+	<Tiles>
+		<Tile>  
+			<Icon>./logo_second.jpg</Icon>
+			<IconThumbnail>./logo_second.jpg</IconThumbnail>
+			<Label>Browser text1</Label>
+			<Link>./index.xhtml</Link>
+		</Tile>
+		<Tile>  
+			<Icon>./oneText_first.jpg</Icon>
+			<IconThumbnail>./oneText_first.jpg</IconThumbnail>
+			<Label>Browser text2</Label>
+			<Link>./index.xhtml</Link>
+		</Tile>
+		<Tile>  
+			<Icon>./bb2d0fabd5a0ce8b0ecc7bafd90bab7f.jpeg</Icon>
+			<IconThumbnail>./bb2d0fabd5a0ce8b0ecc7bafd90bab7f.jpeg</IconThumbnail>
+			<Label>Browser text3</Label>
+			<Link>./index.xhtml</Link>
+		</Tile>
+		<Tile>  
+			<Icon>./3bb37f3dd0b3af0f29b97ddde7d64cd4.jpeg</Icon>
+			<IconThumbnail>./3bb37f3dd0b3af0f29b97ddde7d64cd4.jpeg</IconThumbnail>
+			<Label>Browser text4</Label>
+			<Link>./index.xhtml</Link>
+		</Tile>
+		<Tile>  
+			<Icon>./folder1/Iconfilename5.jpg</Icon>
+			<IconThumbnail>./leftArrow.png</IconThumbnail>
+			<Label>Browser text5</Label>
+			<Link>./index.xhtml</Link>
+		</Tile>
+	</Tiles>
+
+	
+</SmartInfoBrowser>
+
